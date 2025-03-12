@@ -6,7 +6,7 @@ import Banner from './components/Banner/Brevia';
 import Cards from './components/Cards/ProjectCards';
 import Banner2 from './components/Banner/Surya engennering';
 import Email from './components/Email/contact';
-
+import email from './components/Cards/ProjectCards'
 const App = () => {
   return (
     <div className="bg-[#1c2634] backdrop-blur-sm
